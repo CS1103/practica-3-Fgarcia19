@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fabrizio/Desktop/untitled/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+deque
+-
+suma_matrices.h
+/home/fabrizio/Desktop/untitled/suma_matrices.h
+stl deque.h
+/home/fabrizio/Desktop/untitled/stl deque.h
+map.h
+/home/fabrizio/Desktop/untitled/map.h
+
+/home/fabrizio/Desktop/untitled/map.h
+iterator
+-
+map
+-
+
+/home/fabrizio/Desktop/untitled/stl deque.h
+iostream
+-
+vector
+-
+deque
+-
+
+/home/fabrizio/Desktop/untitled/suma_matrices.h
+vector
+-
+iostream
+-
+
